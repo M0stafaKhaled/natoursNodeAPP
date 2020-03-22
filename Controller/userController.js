@@ -12,7 +12,7 @@ exports.getUsers = (req, res) => {
   exports.getUser = (req, res) => {
     res.status(200).json({
       status: 'scucess',
-      massge: `user ${id}`
+      massge: `sucess id`
     });
   };
 };
